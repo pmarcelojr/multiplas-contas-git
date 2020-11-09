@@ -1,7 +1,5 @@
 # múltiplas contas do git #
 
-Configurar múltiplas contas do git no mesmo computador.
-
 Este Script foi desenvolvido para ser configurar múltiplas contas do git no mesmo computador.
 
 ### Passo a Passo:
