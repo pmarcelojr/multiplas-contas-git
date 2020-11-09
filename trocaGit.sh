@@ -1,18 +1,18 @@
 #!/usr/bin/env bash
 ## Switch account Git (Personal/Enterprise)
 
-printf 'Escolha a conta git. USER_1: user01 | USER_2: user02:'
+printf 'Escolha a conta git. USER_1: pmarcelojr | USER_2: willian:'
 printf '\n'
 read ACCOUNT
 
 case $ACCOUNT in
-	user01)
-		USER_NAME="user01"
-		USER_EMAIL="user01@email01.com"
+	pmarcelojr)
+		USER_NAME="pmarcelojr"
+		USER_EMAIL="marcelosantostecnologia@gmail.com"
 		;;
-	user02)
-      	USER_NAME="user02"
-		USER_EMAIL="user02@email02.com"
+	willian)
+      	USER_NAME="willian"
+		USER_EMAIL="willian.fcamara@fornecedores.klabin.com.br"
       	;;
 esac
 
