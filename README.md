@@ -1,3 +1,5 @@
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/pmarcelojr)
+
 # múltiplas contas do git #
 
 Este Script foi desenvolvido para ser configurar múltiplas contas do git no mesmo computador.
